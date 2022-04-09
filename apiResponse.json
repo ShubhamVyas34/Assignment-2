@@ -1,0 +1,25 @@
+{
+  "apikey": "97209de1-8855-4efe-b6b0-a9a30066286c",
+  "data": [
+    {
+      "id": "5d85ff9a-fe87-4b27-bf34-ad7bd74d5195",
+      "name": "Virat Singh",
+      "country": "India"
+    },
+    {
+      "id": "c61d247d-7f77-452c-b495-2813a9cd0ac4",
+      "name": "Virat Kohli",
+      "country": "India"
+    }
+  ],
+  "status": "success",
+  "info": {
+    "hitsToday": 24,
+    "hitsLimit": 500,
+    "credits": 0,
+    "server": 20,
+    "offsetRows": 0,
+    "totalRows": 0,
+    "queryTime": 9.4484
+  }
+}
